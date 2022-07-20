@@ -4,7 +4,7 @@ ex03: Component - React Event
 2) Function Handler
 3) Synthetic Event(Event 합성)
 4) Event Handler 예제
-5) ref 사용하기: FunctionComponent
+5) ref 사용하기: Functional Component
 6) ref 사용하기: Class Component
 
 
